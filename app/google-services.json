@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "1075145641331",
+    "firebase_url": "https://musicapp-6e563-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "musicapp-6e563",
+    "storage_bucket": "musicapp-6e563.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1075145641331:android:f91b5711e99565e8f04906",
+        "android_client_info": {
+          "package_name": "com.plcoding.spotifycloneyt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1075145641331-2is16g5knqklsmeviq0hjocbpb5olp5f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGhC5MR-00o4-Q0532wa5X3UPiAbmaqZk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1075145641331-2is16g5knqklsmeviq0hjocbpb5olp5f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1075145641331:android:15d08aeb2aa08568f04906",
+        "android_client_info": {
+          "package_name": "ru.itis.xokken"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1075145641331-2is16g5knqklsmeviq0hjocbpb5olp5f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGhC5MR-00o4-Q0532wa5X3UPiAbmaqZk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1075145641331-2is16g5knqklsmeviq0hjocbpb5olp5f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/nav_graph_login"
+    app:startDestination="@id/signInFragment">
+
+    <fragment
+        android:id="@+id/signUpFragment"
+        android:name="ru.itis.xokken.musicapp.presentation.fragment.SignUpFragment"
+        android:label="HomeFragment" />
+
+    <fragment
+        android:id="@+id/signInFragment"
+        android:name="ru.itis.xokken.musicapp.presentation.fragment.SignInFragment"
+        android:label="HomeFragment" />
+
+    <action android:id="@+id/actionToSignInFragment"
+        app:popUpTo="@id/signUpFragment"
+        app:popUpToInclusive="true"
+        app:destination="@id/signInFragment" />
+
+    <action android:id="@+id/actionToSignUpFragment"
+        app:popUpTo="@id/signInFragment"
+        app:popUpToInclusive="true"
+        app:destination="@id/signUpFragment" />
+
+
+</navigation>
