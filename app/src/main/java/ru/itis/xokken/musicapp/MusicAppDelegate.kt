@@ -8,6 +8,7 @@ import dagger.hilt.android.HiltAndroidApp
 class MusicAppDelegate : Application(){
     override fun onCreate() {
         super.onCreate()
+        FirebaseApp.initializeApp(applicationContext)
         FirebaseApp.getInstance()
     }
 }

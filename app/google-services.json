@@ -63,6 +63,35 @@
           ]
         }
       }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1075145641331:android:3e62d1c05af544bdf04906",
+        "android_client_info": {
+          "package_name": "ru.itis.xokken.musicapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1075145641331-2is16g5knqklsmeviq0hjocbpb5olp5f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGhC5MR-00o4-Q0532wa5X3UPiAbmaqZk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1075145641331-2is16g5knqklsmeviq0hjocbpb5olp5f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
     }
   ],
   "configuration_version": "1"
